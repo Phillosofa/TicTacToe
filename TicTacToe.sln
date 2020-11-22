@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{42A5057C-6D9E-49C0-84D1-E9F9D87DF30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A5057C-6D9E-49C0-84D1-E9F9D87DF30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A5057C-6D9E-49C0-84D1-E9F9D87DF30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A5057C-6D9E-49C0-84D1-E9F9D87DF30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A5057C-6D9E-49C0-84D1-E9F9D87DF30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEF94DA-F4D2-4EAF-9509-EA8A9F0FD53F}
+	EndGlobalSection
+EndGlobal
